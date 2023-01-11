@@ -2,7 +2,7 @@
   "title": "「古書探訪」古書店マップ",
   "description": "あああ",
   "form_url": "",
-  "logo_image_url": "https://geoloniamaps.github.io/pwamap/icon-pwamap.svg",
+  "logo_image_url": "https://raw.githubusercontent.com/iwashist/kosho/master/public/kosyotanbo320.png",
   "background_image_url": "https://geoloniamaps.github.io/pwamap/geolonia_bgimage_1920_1080.png",
   "primary_color": "#d2691e",
   "orderby": "distance"

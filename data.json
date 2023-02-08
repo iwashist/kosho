@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J85",
+  "range": "'スポットデータ'!A1:J86",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -13,6 +13,18 @@
       "Instagram",
       "Twitter",
       "公式サイト"
+    ],
+    [
+      "",
+      "三鷹",
+      "",
+      "35.70933617",
+      "139.5617543",
+      "りんてん舎",
+      "〒180-0013 \n東京都武蔵野市西久保2-3-16-101\n営業時間 12:00〜20:00\n定休日 火曜\nTEL 0422-38-8983\n\n米粒写経 談話室 2023.02.07　～手毬唄のナゾ～\nhttps://www.youtube.com/live/4CkKJ1agTPM?feature=share",
+      "rintensha",
+      "rintensha",
+      "https://rintensha.com/"
     ],
     [
       "",

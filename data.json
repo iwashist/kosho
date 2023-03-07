@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J86",
+  "range": "'スポットデータ'!A1:J87",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -13,6 +13,18 @@
       "Instagram",
       "Twitter",
       "公式サイト"
+    ],
+    [
+      "",
+      "高円寺",
+      "",
+      "35.70677271",
+      "139.646515",
+      "コクテイル書房",
+      "〒166-0002\n東京都杉並区高円寺北3-8-13 \r\n営業時間／昼営業 12:00-15:00 土日 / 夜営業 18:00-23:00 無休\r\nTEL/FAX／03-3310-8130\r\n\n米粒写経 談話室 2023.03.02 ～ただピンピンしてるやつはつまんない～\nhttps://www.youtube.com/live/k69wKf3fzQc?feature=share",
+      "cocktailbooks",
+      "cocktail_books",
+      "https://www.koenji-cocktail.info/"
     ],
     [
       "",

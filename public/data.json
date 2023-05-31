@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J89",
+  "range": "'スポットデータ'!A1:J90",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -13,6 +13,18 @@
       "Instagram",
       "Twitter",
       "公式サイト"
+    ],
+    [
+      "",
+      "静岡",
+      "",
+      "35.11826882",
+      "138.8150281",
+      "書肆ハニカム堂",
+      "〒410-0875\n静岡県沼津市今沢175-5\n営業日時：土日祝日のみ　14:00～18:00\n（お休みの場合あり。最新情報はTwitterにて）\n駐車場：店舗前に１台分あり\nアクセス：JR東海道線 片浜駅から徒歩5分\n\n米粒写経 談話室 2023.05.20 ～つみれの食べどき～\nhttps://www.youtube.com/live/Xy5sBgf_Ov8?feature=share",
+      "shoshi_hani",
+      "shoshi_hani",
+      "https://shoshi-hani.stores.jp/"
     ],
     [
       "",

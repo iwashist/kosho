@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J92",
+  "range": "'スポットデータ'!A1:J93",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -13,6 +13,10 @@
       "Instagram",
       "Twitter",
       "公式サイト"
+    ],
+    [
+      "",
+      "名古屋"
     ],
     [
       "",

@@ -3,7 +3,7 @@
   "description": "米粒写経・談話室「居島一平 古書探訪」で紹介された古書店マップです。",
   "form_url": "",
   "logo_image_url": "https://raw.githubusercontent.com/iwashist/kosho/master/public/kosyotanbo320.png",
-  "background_image_url": "https://raw.githubusercontent.com/iwashist/kosho/master/public/maxresdefault.jpg",
+  "background_image_url": "https://raw.githubusercontent.com/iwashist/kosho/master/public/map-wall_1080.png",
   "primary_color": "#d2691e",
   "orderby": "distance"
 }

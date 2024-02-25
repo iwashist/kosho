@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J96",
+  "range": "'スポットデータ'!A1:J98",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -16,14 +16,38 @@
     ],
     [
       "",
+      "東京",
+      "",
+      "35.7107739",
+      "139.7189686",
+      "古書ソオダ水",
+      "東京都新宿区西早稲田1-6-3 筑波ビル2A \n電話 03-6279-9182\n\n米粒写経 談話室  2024.2.21　～晴れのちカミナリ～\nhttps://www.youtube.com/live/scijXqJemeE?si=oH7OMOBxQFVDOwTi",
+      "",
+      "kosho_soda_sui",
+      "https://kosho-soda-sui.com/"
+    ],
+    [
+      "",
+      "東京",
+      "",
+      "35.70642635",
+      "139.6226332",
+      "古書かいた",
+      "東京都杉並区天沼3-30-42-1F\n電話 03-6279-9182\n\n米粒写経 談話室  2024.01.18　～お庭騒動～\nhttps://www.youtube.com/live/cNS0JLlvUrM?si=zMb_HJbkyxMjotPt",
+      "koshokaita",
+      "koshokaita",
+      "https://koshokaita.shopselect.net/"
+    ],
+    [
+      "",
       "大阪",
       "",
-      "",
-      "",
+      "34.63001549",
+      "135.5128193",
       "古書大吉堂",
       "住所：〒545-0021 大阪府大阪市阿倍野区阪南町3-12-23\n営業時間：11:00 〜 19:00\n不定休\n\n米粒写経 談話室  2023.12.21　～ありがとう山田太一さん～\nhttps://www.youtube.com/live/uZukEUmiQYY?si=NG9hw8nK-_kw7eni",
-      "",
-      "",
+      "daikichidou",
+      "toyritz",
       "https://daikichidou.web.fc2.com/"
     ],
     [
@@ -33,7 +57,7 @@
       "35.69843442",
       "139.447474",
       "みちくさ書店",
-      "住所：〒186-0002 東京都国立市東１丁目４−６ 国立デパート １Ｆ\r\n電話 042-577-8181　\r\n営業時間　10:00-18:45 (年中無休)\r\nアクセス：国立駅南口\n\n米粒写経 談話室 2023.09.14　～立浪から輝政～\nhttps://www.youtube.com/live/rs2cQbVmDlE?si=e8I1xR5irVoBvKcv",
+      "住所：〒186-0002 東京都国立市東１丁目４−６ 国立デパート １Ｆ\n電話 042-577-8181　\n営業時間　10:00-18:45 (年中無休)\nアクセス：国立駅南口\n\n米粒写経 談話室 2023.09.14　～立浪から輝政～\nhttps://www.youtube.com/live/rs2cQbVmDlE?si=e8I1xR5irVoBvKcv",
       "",
       "",
       "https://michikusa.co.jp/"

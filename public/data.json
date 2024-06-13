@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J98",
+  "range": "'スポットデータ'!A1:J101",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -13,6 +13,42 @@
       "Instagram",
       "Twitter",
       "公式サイト"
+    ],
+    [
+      "",
+      "東京",
+      "",
+      "35.70703459",
+      "139.8419929",
+      "平井の本棚",
+      "東京都江戸川区平井5-15-10 平井駅北口駅前ビル1F\r\nJR平井駅北口より出て左へ曲がり、徒歩30秒\n営業時間：13:00-18:00\r\n金土日のみの営業\n\n米粒写経 談話室 2024.5.20　～居島親方／パの器～\nhttps://www.youtube.com/live/GneNLlzP0tM?si=9Qcgfkx2fmdUkSvZ",
+      "",
+      "hirai_hondana",
+      "https://hirai-shelf.tokyo/"
+    ],
+    [
+      "",
+      "東京",
+      "",
+      "35.69565505",
+      "139.5249381",
+      "尾花屋",
+      "〒184-0011 東京都小金井市東町4-20-3\r\nJR中央線「東小金井」駅、西武線「新小金井」駅からそれぞれ徒歩\n営業時間：11:00-19:00\r\n定休日：毎週木曜日\n\n米粒写経 談話室 2024.4.22　～ボバン・マリヤノヴィッチとビクター・ウェンバンヤマと孔子～\nhttps://www.youtube.com/live/I2oK_JAXzgk?si=kGDdgM0WmMIdeSqL",
+      "obanaya_books",
+      "obanayuma",
+      "https://www.obanaya.com/"
+    ],
+    [
+      "",
+      "東京",
+      "",
+      "35.77891487",
+      "139.7899413",
+      "書簏 高田書店",
+      "〒123-0842　東京都足立区栗原　1-7-24　\n東武伊勢崎線「西新井」駅 徒歩約1分\n営業時間：12:00-22:00\n定休日：毎週火曜日\n\n米粒写経 談話室 2024.3.21　～この顔がほしい～\nhttps://www.youtube.com/live/R25zjNLd7To?si=b6UFYIHkCO5qVB4x",
+      "",
+      "",
+      "https://www.kosho.or.jp/abouts/?id=12070400"
     ],
     [
       "",

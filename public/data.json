@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J101",
+  "range": "'スポットデータ'!A1:J103",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -13,6 +13,30 @@
       "Instagram",
       "Twitter",
       "公式サイト"
+    ],
+    [
+      "",
+      "岡山",
+      "",
+      "34.66314431",
+      "133.9406404",
+      "古京文庫",
+      "〒703-8278　岡山市中区古京町１丁目２－８\n℡　086-206-3181\n不定休  開店時間などはXで確認のこと。\n\n米粒写経 談話室 2024.7.24　～米粒写経の人ですよね？～\nhttps://www.youtube.com/live/iDoq-DVSDsc?si=p1PxLMR1PHL0ZTGg",
+      "",
+      "furugyoubunko",
+      "https://furugyoubunko.jimdo.com/"
+    ],
+    [
+      "",
+      "岡山",
+      "",
+      "34.64876372",
+      "133.8762654",
+      "万歩書店",
+      "〒701-0144 岡山県岡山市北区久米415-1\r\nJR「北長瀬駅」より徒歩15分\r\n営業時間：10:00-23:00（2020年4月20日から当面の間　10：00～22：00）\r\n電話番号086-246-1110　FAX番号 086-244-1248\r\n定休日 年中無休\n\n米粒写経 談話室 2024.6.22　～すぐ謝る　アンガーマネージメントのその先に～\nhttps://www.youtube.com/live/qMkCP_syQx8?si=Ea8GoPSGAwG8hMdh",
+      "manpo_honten",
+      "",
+      "https://www.a-walker.co.jp/"
     ],
     [
       "",

@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J105",
+  "range": "'スポットデータ'!A1:J107",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -16,12 +16,35 @@
     ],
     [
       "",
+      "神戸",
+      "",
+      "34.70781553",
+      "135.216475",
+      "古本屋 ワールドエンズ・ガーデン",
+      "住所：神戸市灘区城内通5-6-8\r\n℡　078-779-9389\n\n米粒写経 談話室 2024.12.19　～能古島探訪記～\nhttps://www.youtube.com/live/ZNIt-92fc3U?si=jTu9bRn-UTTt7Yaf",
+      "worldendsgarden",
+      "worldendsgarden"
+    ],
+    [
+      "",
+      "岐阜",
+      "",
+      "35.41904003",
+      "136.7609789",
+      "古書と古本 徒然舎",
+      "〒500-8182　岐阜市美殿町40 矢沢ビル1階 美殿町商店街\r\n℡　TEL 058-214-7243\r\n火曜水曜定休　開店時間12:00～19:00 \n\n米粒写経 談話室 2024.11.18 ～貴景勝、言い過ぎたごめんな～\nhttps://www.youtube.com/live/wvQHE-6IYn8?si=iWquEKp7Rh4MCRg4",
+      "tsurezuresha_yf\r",
+      "taikoudo",
+      "https://tsurezuresha.net/"
+    ],
+    [
+      "",
       "青森",
       "",
       "40.8265427",
       "140.7395791",
       "古書らせん堂",
-      "青森市新町１丁目１３-７ 和田ビル１Ｆ\n℡　TEL 080-2808-0079\n不定休　開店時間10:00～17:30 \n\n米粒写経 談話室 2024.7.24　～米粒写経の人ですよね？～\nhttps://www.youtube.com/live/QZWbnOWiBHM?si=KQUonVEmJIxAOV78",
+      "青森市新町１丁目１３-７ 和田ビル１Ｆ\n℡　TEL 080-2808-0079\n不定休　開店時間10:00～17:30 \n\n米粒写経 談話室 2024.9.16　～関ケ原に行ってきました～\nhttps://www.youtube.com/live/QZWbnOWiBHM?si=J2JD3bMMmYZzG5mH\n米粒写経 談話室 2024.10.19　～東京注意報～\nhttps://www.youtube.com/live/t9ENh2k3f64?si=z4pV9L-Q_0RmBKLw",
       "",
       "Koshorasendo",
       "https://koshorasendo-aomori.stores.jp/"

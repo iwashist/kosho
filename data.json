@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J107",
+  "range": "'スポットデータ'!A1:J108",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -16,12 +16,23 @@
     ],
     [
       "",
+      "東京",
+      "",
+      "35.70490364",
+      "139.5970629",
+      "古書音羽館",
+      "住所：〒167-0042東京都杉並区西荻北3-13-7　\n℡　03-5382-1587\n\n米粒写経 談話室 2025.1.21　～すべては「言いたいだけ」！～\nhttps://www.youtube.com/live/vN0HyFbrFIc?si=xPZO_c1XkxI2VJ7j",
+      "",
+      "otowa_kan"
+    ],
+    [
+      "",
       "神戸",
       "",
       "34.70781553",
       "135.216475",
       "古本屋 ワールドエンズ・ガーデン",
-      "住所：神戸市灘区城内通5-6-8\r\n℡　078-779-9389\n\n米粒写経 談話室 2024.12.19　～能古島探訪記～\nhttps://www.youtube.com/live/ZNIt-92fc3U?si=jTu9bRn-UTTt7Yaf",
+      "住所：神戸市灘区城内通5-6-8\n℡　078-779-9389\n\n米粒写経 談話室 2024.12.19　～能古島探訪記～\nhttps://www.youtube.com/live/ZNIt-92fc3U?si=jTu9bRn-UTTt7Yaf",
       "worldendsgarden",
       "worldendsgarden"
     ],
